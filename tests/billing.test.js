@@ -9,6 +9,7 @@ test("Lowest tier", () => {
   expect(cost).toEqual(expectedCost);
 });
 
+
 test("Middle tier", () => {
   const storage = 100;
 
